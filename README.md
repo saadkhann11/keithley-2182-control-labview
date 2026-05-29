@@ -18,8 +18,7 @@ proud of.
 **Front panel**
 ![Front panel](images/front-panel.png)
 
-**Block diagram**
-![Block diagram](images/block-diagram.png)
+
 
 ## How it works
 The application communicates with the Keithley 2182 over  RS-232, sends
